@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=346000,RESOLUTION=427x240
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1908911827_b346000_slAR.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=596000,RESOLUTION=640x360
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1908911827_b596000_slAR.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=946000,RESOLUTION=854x480
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1908911827_b946000_slAR.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1296000,RESOLUTION=1024x576
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1908911827_b1296000_slAR.m3u8
