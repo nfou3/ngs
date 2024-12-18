@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=395000,NAME="Low"
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w667688956_b395000_t64TG93.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=888000,NAME="Standard"
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w667688956_b888000_t64U3RhbmRhcmQ=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,NAME="High"
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w667688956_b2000000_t64SGlnaA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3555000,NAME="HD"
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w667688956_b3555000_t64SEQ=.m3u8
