@@ -1,15 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/4063
-#EXTINF:10.000000,
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/4063
-#EXTINF:10.000000,
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/4063
-#EXTINF:10.000000,
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/4063
-#EXTINF:10.000000,
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/4063
-#EXTINF:10.000000,
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/4063
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1024x576,FRAME-RATE=25.000,AVERAGE-BANDWIDTH=1400000,BANDWIDTH=1750000
+https://x.canlitvapp.com/u-dave/tracks-v1a1/mono.m3u8
