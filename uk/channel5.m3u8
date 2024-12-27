@@ -1,15 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://www.localpacks.shop:80/myown/wbQQTCSCp5/8886
-#EXTINF:10.000000,
-http://www.localpacks.shop:80/myown/wbQQTCSCp5/8886
-#EXTINF:10.000000,
-http://www.localpacks.shop:80/myown/wbQQTCSCp5/8886
-#EXTINF:10.000000,
-http://www.localpacks.shop:80/myown/wbQQTCSCp5/8886
-#EXTINF:10.000000,
-http://www.localpacks.shop:80/myown/wbQQTCSCp5/8886
-#EXTINF:10.000000,
-http://www.localpacks.shop:80/myown/wbQQTCSCp5/8886
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4d001e,mp4a.40.2",AVERAGE-BANDWIDTH=1420000,BANDWIDTH=1780000
+https://x.canlitvapp.com/u-channel-5/tracks-v1a1/mono.m3u8
