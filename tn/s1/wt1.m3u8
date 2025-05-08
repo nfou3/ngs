@@ -1,5 +1,3 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:60
-#EXTINF:60.000,
 https://raw.githubusercontent.com/nfou3/ngs/refs/heads/main/tntv.mp4
