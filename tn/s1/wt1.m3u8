@@ -1,8 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:60
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:60.000,
 https://raw.githubusercontent.com/nfou3/ngs/refs/heads/main/tntv.mp4
-#EXT-X-ENDLIST
