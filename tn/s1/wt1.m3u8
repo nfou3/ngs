@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:EVENT
 #EXTINF:10,
-https://raw.githubusercontent.com/nfou3/ngs/refs/heads/main/tntv.ts.m2ts
+http://myhand.org:8080/10287622097915/SY8GKa8IyY/71187
