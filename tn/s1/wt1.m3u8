@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:EVENT
-#EXTINF:60,
-http://line.4k-beast.co:80/live/7F7C7A/353652/1440308.ts
+#EXTINF:3,
+https://raw.githubusercontent.com/nfou3/ngs/refs/heads/main/tntv.ts
